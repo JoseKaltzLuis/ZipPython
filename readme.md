@@ -1,0 +1,1 @@
+Script simples em python para poder compactar seus arquivos em zip
